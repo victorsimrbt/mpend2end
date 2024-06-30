@@ -45,6 +45,6 @@ Requirements:
 
 ## Results
 
-![Example Image](media\mesh.png)
+![Example Image](media/mesh.png)
 
 There are quite a few dependencies for our project, so you can run our code with ```generate3d.py``` and ```visualise.py``` to generate a 3D map with our collected data.
