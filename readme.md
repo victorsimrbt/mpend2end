@@ -2,7 +2,7 @@
 
 Supplementary and Paper in the repository!
 
-Paper Accepted to ECAI-CompAI Workshop!
+Paper Accepted to [ECAI-CompAI Workshop](https://filuta.ai/compai24)!
 
 ## Project Description
 
