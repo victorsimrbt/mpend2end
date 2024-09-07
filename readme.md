@@ -4,6 +4,8 @@ Supplementary and Paper in the repository!
 
 Paper Accepted to [ECAI-CompAI Workshop](https://filuta.ai/compai24)!
 
+Paper accepted at ECCV Computer Vision for Ecology Workshop!
+
 ## Project Description
 
 Microplastics, formed by the breakdown of non-biodegradable plastic, pose a significant threat to aquatic ecosystems. To address this issue, accurate methods for quantifying microplastic concentrations are essential for informing policy and prosecuting offenders. Current detection methods, however, require expensive equipment and are often unreliable. We propose a new, cost-effective methodology that composites depth-from-focus techniques with few-shot classification. Unlike traditional methods that count and measure the size of microplastics, which can yield misleading results due to variability in particle shapes and densities, our approach will yield more accurate quantitative measures of microplastics on the environment. Additionally, qualitative analysis of the data can provide deeper insights into the physical and biological mechanisms driving microplastic ecosystem damage.
