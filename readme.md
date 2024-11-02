@@ -4,7 +4,7 @@ Supplementary and Paper in the repository!
 
 Paper Accepted to [ECAI-CompAI Workshop](https://filuta.ai/compai24)!
 
-Paper accepted at ECCV Computer Vision for Ecology Workshop!
+Paper accepted at [ECCV Computer Vision for Ecology Workshop](https://cv4e.netlify.app/papers/)!
 
 ## Project Description
 
