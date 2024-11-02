@@ -34,7 +34,7 @@ Requirements:
 
 Requirements:
 
-- NVIDIA GPU
+- Standard Consumer CPU
 - requirements in requirements.txt
 
 1. Run ```python project/capture.py``` and ```project/code.ino``` on an arduino to collect images of the microplastics.
@@ -52,3 +52,24 @@ Requirements:
 ![Example Image](media/mesh.png)
 
 There are quite a few dependencies for our project, so you can run our code with ```generate3d.py``` and ```visualise.py``` to generate a 3D map with our collected data.
+
+## References
+Felzenszwalb, P.F., Huttenlocher, D.P.: Efficient Graph-Based image segmentation. International journal of computer vision 59(2), 167–181 (9 2004). https://
+doi.org/10.1023/b:visi.0000022288.19776.77, https://doi.org/10.1023/b:
+visi.0000022288.19776.77
+
+Golestaneh, S.A., Karam, L.J.: Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes. CVPR
+(7 2017). https://doi.org/10.1109/cvpr.2017.71, https://doi.org/10.1109/
+cvpr.2017.71
+
+Lindeberg, T.: Scale invariant feature transform. Scholarpedia journal 7(5), 10491
+(1 2012). https://doi.org/10.4249/scholarpedia.10491, https://doi.org/
+10.4249/scholarpedia.10491
+
+Williams, E., Moore, J., Li, S.W., Rustici, G., Tarkowska, A., Chessel, A., Leo,
+S., Antal, B., Ferguson, R.K., Sarkans, U., Brazma, A., Salas, R.E.C., Swedlow,
+J.R.: Image Data Resource: a bioimage data integration and publication platform.
+Nature methods 14(8), 775–781 (6 2017). https://doi.org/10.1038/nmeth.4326,
+https://doi.org/10.1038/nmeth.4326
+
+Bennequin, E. easyfsl [Computer software]. https://github.com/sicara/easy-few-shot-learning
